@@ -36,7 +36,7 @@ print SALIDA $ini,$in2;
 	my $pla = $doc -> getCellValue(0, "M$i");
 	my $men = $doc -> getCellValue(0, "N$i");
 	#Here, write the records into XML file
-	my $file = "($rut,$dv,$reg,$apa,$ama,$nom,$sex,$nct,$sta,$ing,$cod,$nca,$pla,$men);";
+	my $file = "($rut, $dv, $reg, $apa, $ama, $nom, $sex, $nct, $sta, $ing, $cod, $nca, $pla, $men);";
 	print SALIDA $file;
 }
 #Add de GO order
