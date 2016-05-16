@@ -3,7 +3,7 @@
 #jgallarodb2014@alu.uct.cl
 #Information Managment - INFO1107
 #Professor Guide Alejandro Mellado
-#Temuco, May 2016
+#Temuco, Chile - May 2016
 
 #!/usr/bin/perl
 
