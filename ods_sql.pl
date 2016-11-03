@@ -7,6 +7,8 @@
 
 #!/usr/bin/perl
 
+# Comentario
+
 #Libraries to use
 use OpenOffice::OODoc;
 use strict;
